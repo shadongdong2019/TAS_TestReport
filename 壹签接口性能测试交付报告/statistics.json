@@ -1,0 +1,32 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 50000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 413.82659999999964,
+    "minResTime" : 0.0,
+    "maxResTime" : 431.0,
+    "pct1ResTime" : 420.0,
+    "pct2ResTime" : 421.0,
+    "pct3ResTime" : 421.0,
+    "throughput" : 239.1646457254103,
+    "receivedKBytesPerSec" : 5.605421384189303,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Java请求" : {
+    "transaction" : "Java请求",
+    "sampleCount" : 50000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 413.82659999999964,
+    "minResTime" : 0.0,
+    "maxResTime" : 431.0,
+    "pct1ResTime" : 420.0,
+    "pct2ResTime" : 421.0,
+    "pct3ResTime" : 421.0,
+    "throughput" : 239.1646457254103,
+    "receivedKBytesPerSec" : 5.605421384189303,
+    "sentKBytesPerSec" : 0.0
+  }
+}
